@@ -4,6 +4,7 @@ This is source code for constructing SSN in python, and the scipy package is req
 The "construct_single_network.py" can be used to construct the single-sample network (SSN), and the parameter is shown below:
 
 usage: python construct_single_network.py -pvalue=threshold_p_value | -threshold=threshold_value -background=background_network_file -ref=reference_sample_file  -sample=sample_data_file -out=results_output_fold
+
 Options and arguments:
 -pvalue : set the threshold of p-value [0..1], if the -pvalue set 1, all edges will be outputted to the SSN
 -threshold : set the threshold value of the absolute value of deltaPCC [0..2]
