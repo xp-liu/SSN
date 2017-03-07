@@ -1,5 +1,5 @@
 # SSN
-This is source code for constructing SSN in python, and the scipy package is required for this program.
+This is source code for constructing SSN in python, and the “SciPy” package is required for this program.
 
 The "construct_single_network.py" can be used to construct the single-sample network (SSN), and the parameter is shown below:
 
