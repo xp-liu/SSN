@@ -20,6 +20,7 @@ Options and arguments:
 -out : the directory to store the SSN
 
 
+
 There is a simple example below: 
 
 The file "reference_samples.txt" is the expression profile of reference samples.
